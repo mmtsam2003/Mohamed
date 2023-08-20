@@ -1,0 +1,42 @@
+body {
+    background-color: #252B48;
+}
+.title {
+    color: white;
+    background-color: #445069;
+    font-weight: bold;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    margin-top: 30px;
+}
+#para{
+    font-weight: bold;
+}
+.disc {
+    color: #252B48;
+    background-color: #445069;
+    font-weight: bold;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    margin-top: 30px;
+}
+h1:hover {
+    background-color: #252B48;
+}
+p {
+    color: white;
+    text-align: justify;
+    width: 700px;
+    margin: auto;
+    margin-top: 20px;
+}
